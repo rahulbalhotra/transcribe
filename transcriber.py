@@ -1,3 +1,4 @@
+pip install whisper
 from tempfile import NamedTemporaryFile
 import streamlit as st
 import whisper
